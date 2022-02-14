@@ -1,10 +1,10 @@
 const CONFIGDATA = {
-  titleHeader: "Toi tặng quà valen thì c có nhận hong",
+  titleHeader: "19 năm mới được đón valentine nên tui có này tặng cho bạn nè ",
   descriptionHeader:
-    "Nếu b thoát ra và không trả lời thì có nghĩa là b đã ĐỒNG Ý rồi đấy ^^",
+    "Nên bạn nhận hong? Nếu thoát ra phải làm người yêu chính thức của tui đó^^",
   buttonYes: "Đồng Ý",
   buttonNo: "Không! Còn lâu nhé.",
-  titleModar: "Okela...",
+  titleModar: "Bất ngờ chưa !",
   descriptionModar:
-    'Vì lý do địa lý nên hong gửi đc ^^ </br> Cho nợ đi nào gặp toi trả sau :)) </br> "Từ mai b học r nên khó rủ game đc. </br>  Chúc b học tốt "',
+    'Chúc mừng bạn được gọi tui bằng anh từ nay về sau </br> Honestly </br> "Ngoài ra bạn còn được tui ôm một cái nữa đó </br>  Valentine vui vẻ =)) "',
 };
