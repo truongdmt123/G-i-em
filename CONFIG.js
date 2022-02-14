@@ -6,5 +6,5 @@ const CONFIGDATA = {
   buttonNo: "Không! Còn lâu nhé.",
   titleModar: "Bất ngờ chưa !",
   descriptionModar:
-    'Chúc mừng bạn được gọi tui bằng anh từ nay về sau </br> Honestly </br> "Ngoài ra bạn còn được tui ôm một cái nữa đó </br>  Valentine vui vẻ =)) "',
+    'Chúc mừng bạn được gọi tui bằng anh từ nay về sau </br> </br> Valentine vui vẻ =)) </br>"',
 };
